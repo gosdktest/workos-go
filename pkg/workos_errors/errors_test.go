@@ -2,8 +2,8 @@ package workos_errors_test
 
 import (
 	"fmt"
-	"github.com/workos-inc/workos-go/internal/workos"
-	"github.com/workos-inc/workos-go/pkg/workos_errors"
+	"github.com/gosdktest/workos-go/internal/workos"
+	"github.com/gosdktest/workos-go/pkg/workos_errors"
 	"net/http"
 	"testing"
 )
